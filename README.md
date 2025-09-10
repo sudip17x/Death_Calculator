@@ -15,7 +15,7 @@ A creepy web app that calculates your age and predicts your possible death date 
 * 📅 **Age** – From your birth date
 * ⚧️ **Gender** – Different life expectancy for male/female
 * 📏 **Height & Weight** – To calculate BMI
-* 🚬 **Smoking** – Never, former, light, moderate, or heavy smoker
+* 🚬 **Smoking** – Yes/No
 
 ## 🖤 Design
 
