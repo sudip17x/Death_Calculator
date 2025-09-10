@@ -1,7 +1,7 @@
 # 💀 Death Predictor Age Calculator 💀
 
 A creepy web app that calculates your age and predicts your possible death date using health and lifestyle factors. Made with **HTML, CSS, and JavaScript**, styled in a horror theme.
-
+Link : https://sudip17x.github.io/Death_Calculator/
 ## 🎃 Features
 
 * Calculate exact age from birth date
